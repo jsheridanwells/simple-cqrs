@@ -1,0 +1,3 @@
+# Simple CQRS Example
+
+From [this](https://squarewidget.com/a-simple-cqrs-pattern-using-c-in-net/)....
